@@ -1,1 +1,2 @@
 New line in newFile.txt
+new change for task 12
