@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Line changed by A
+=======
+Line changed by B
+>>>>>>> cbb3d91 (B changes)
