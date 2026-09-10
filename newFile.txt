@@ -5,5 +5,3 @@ change after review
 veljkos change task 12
 veljkos change task 13 changed
 fix
-
-
